@@ -1,4 +1,4 @@
 # git_test
-to leatn github
+to learn github
 
 hello odin!
